@@ -1,2 +1,7 @@
 # MAGIC
 MAGIC: A Multimodal Adaptive Gene regulatory network Inference Constructor
+
+numpy==1.19.3
+pandas==1.2.4
+scikit_learn==1.0.2
+scipy==1.7.3
